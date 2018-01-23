@@ -1,0 +1,18 @@
+{
+  "code":"kraken",
+  "name": "kraken Exchange API",
+  "metaConfig": [
+    {
+      "code": "apiKey",
+      "name": "API Key",
+      "type": "STRING",
+      "required": true
+    },
+    {
+      "code": "apiSecret",
+      "name": "API Secret",
+      "type": "STRING",
+      "required": true
+    }
+  ]
+}
